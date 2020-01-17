@@ -7,7 +7,7 @@ Bienvenido al sitio en el que se compartirán documentos e ideas respecto del pe
 
 <a href="https://drive.google.com/open?id=1rvzrMIozpDKzpRqlBloOjdc0LDUllHIJ">Bolsilibro fundamentos del pensamiento crítico</a>
 
-Espero que estos dos documentos planteén las primeras inquietudes respecto de lo que significa pensar críticamente y den luces sobre la utilidad y necesidad, sobretodo en nuestro país Colombia, de pensar críticamente.
+Espero que estos dos documentos plantéen las primeras inquietudes respecto de lo que significa pensar críticamente y den luces sobre la utilidad y necesidad, sobretodo en nuestro país Colombia, de pensar críticamente.
 
 Cordialmente,
 

@@ -9,7 +9,7 @@ Bienvenido al sitio, **temporal**, en el que se compartirán documentos e ideas 
 
 Espero que estos dos documentos plantéen las primeras inquietudes respecto de lo que significa pensar críticamente y den luces sobre la utilidad y necesidad, sobretodo en nuestro país Colombia, de pensar críticamente.
 
-Inquietudes al respecto de los documentos me las pueden plantear a este <a mailto:"">luis.salazar@uptc.edu.co</a> 
+Inquietudes al respecto de los documentos me las pueden plantear a este <a href="mailto:luis.salazar@uptc.edu.co">correo</a> 
 
 Cordialmente,
 
